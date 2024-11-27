@@ -1,0 +1,94 @@
+{
+  "smoothies": [
+    {
+      "id": "berry-blue",
+      "title": "Berry Blue",
+      "calories": "520 Calories",
+      "ingredients": "Orange, blueberry, and avocado"
+    },
+    {
+      "id": "carrot-chops",
+      "title": "Carrot Chops",
+      "calories": "230 Calories",
+      "ingredients": "Orange, carrot and mango"
+    },
+    {
+      "id": "hulking-lemonade",
+      "title": "Hulking Lemonade",
+      "ingredients": "Lemon, spinach, and avocado",
+      "calories": "170 Calories"
+    },
+    {
+      "id": "kiwi-cutie",
+      "title": "Kiwi Cutie",
+      "ingredients": "Kiwi, orange, and spinach",
+      "calories": "210 Calories"
+    },
+    {
+      "id": "lemon-berry",
+      "title": "Lemon Berry",
+      "ingredients": "Raspberry, strawberry, and lemon",
+      "calories": "140 Calories"
+    },
+    {
+      "id": "love-you-berry-much",
+      "title": "Love You Berry Much",
+      "ingredients": "Strawberry, blueberry and raspberry",
+      "calories": "210 Calories"
+    },
+    {
+      "id": "mango-jambo",
+      "title": "Mango Jambo",
+      "ingredients": "Mango and pineapple",
+      "calories": "140 Calories"
+    },
+    {
+      "id": "one-in-a-melon",
+      "title": "One in a Melon",
+      "ingredients": "Watermelon and raspberry",
+      "calories": "130 Calories"
+    },
+    {
+      "id": "papas-papaya",
+      "title": "Papas Papaya",
+      "ingredients": "Orange, mango and papaya",
+      "calories": "210 Calories"
+    },
+    {
+      "id": "peanut-butter-cup",
+      "title": "Peanut butter Cup",
+      "ingredients": "Almond Milk, Banana, chocolate and peanut butter",
+      "calories": "460 Calories"
+    },
+    {
+      "id": "piña-y-coco",
+      "title": "Piña y Coco",
+      "ingredients": "Pineapple, almond milk, and coconut",
+      "calories": "320 Calories"
+    },
+    {
+      "id": "sailor-man",
+      "title": "Sailor Man",
+      "ingredients": "Orange and spinach",
+      "calories": "170 Calories"
+    },
+    {
+      "id": "thats-a-smore",
+      "title": "That's a Smore!",
+      "ingredients": "Almond Milk, coconut and chocolate",
+      "calories": "240 Calories"
+    },
+    {
+      "id": "thats-berry-bananas",
+      "title": "That's berry Bananas!",
+      "ingredients": "Almond Milk, banana and strawberry",
+      "calories": "580 Calories"
+    },
+    {
+      "id": "tropical-blue",
+      "title": "Tropical Blue",
+      "ingredients": "Almond Milk, banana, blueberry and mango",
+      "calories": "490 Calories"
+    }
+  ]
+}
